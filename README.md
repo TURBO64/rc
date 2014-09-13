@@ -1,0 +1,4 @@
+rc
+==
+
+scripts and configs
