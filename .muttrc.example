@@ -1,0 +1,16 @@
+set imap_user = "Your email address"
+set imap_pass = "Your password"
+
+set smtp_url = "smtp://smtp.yourmailserver.com:587/"
+set smtp_pass = "Your password"
+set from = "Your email address"
+set realname = "Your Name"
+
+set folder = "imaps://yourmailserver.com:993"
+set spoolfile = "+INBOX"
+
+set record=~/.mutt/sent
+set header_cache=~/.mutt/cache/headers
+set message_cachedir=~/.mutt/cache/bodies
+set certificate_file=~/.mutt/certificates
+set move = no
